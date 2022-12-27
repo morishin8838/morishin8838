@@ -18,6 +18,8 @@
 - Microsemi Libero®2021.1 https://www.microchip.com/en-us/products/fpgas-and-plds/fpga-and-soc-design-tools/fpga 
 - Microsemi smart-HLS https://www.microchip.com/en-us/products/fpgas-and-plds/fpga-and-soc-design-tools/smarthls-compiler
 - Qt5.12  https://download.qt.io/archive/qt/5.12/
+- Kicad https://www.kicad.org/
+- GreenPAK Go Configure https://www.renesas.com/jp/ja/software-tool/go-configure-software-hub
 
 ## :computer: 利用機器
 - Xilinx KV260 ビジョン AI スターター キット KV260 https://japan.xilinx.com/products/som/kria.html
