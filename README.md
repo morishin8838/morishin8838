@@ -1,7 +1,10 @@
 ## :smile:自己紹介
 - こんにちわ　もりしんです。
 - 近頃、老化が激しくて記憶力低下ですぐに忘れます。自分がどこにいても閲覧できるようにgitで技術情報保管し、かつ、公開
-
+* qiita
+    - https://qiita.com/pshanmori
+* gitbucket
+    - https://morishin8838.bitbucket.io/index.html
 ## :package:レポジトリについて
 - Xilinx KriaSOM FPGA、及び、Mirosemi PolarFire FPGA 高位合成のサンプルコードを紹介しています。
 - ZynqUltraScale+上でQtを扱う日本語の技術情報が少ないので、こちらでクロスプラットフォーム構築等をご紹介します。
